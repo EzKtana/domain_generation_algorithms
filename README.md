@@ -18,7 +18,7 @@ simda     | Simda | Shiz | [link](http://johannesbader.ch/2015/03/the-dga-of-sim
 tinba     | Tinba | TinyBanker, Zusy  | [link](http://johannesbader.ch/2015/04/new-top-level-domains-for-tinbas-dga/)
 ranbyus/may   | Ranbyus Version 1 | | [link](http://johannesbader.ch/2015/05/the-dga-of-ranbyus/)
 ranbyus/september   | Ranbyus Version 2| | [link](http://johannesbader.ch/2015/09/ranbyuss-dga-revisited/)
-nymaim    | Nymaim || 
+nymaim    | Nymaim || [link] (http://www.seculert.com/blogs/nymaim-deep-technical-dive-adventures-in-evasive-malware)
 murofet/v1 | Murofet Variant 1 | LICAT | [link](https://johannesbader.ch/2015/09/three-variants-of-murofets-dga/)
 murofet/v2 | Murofet Variant 2 | LICAT | [link](https://johannesbader.ch/2015/09/three-variants-of-murofets-dga/)
 murofet/v3 | Murofet Variant 3 | LICAT | [link](https://johannesbader.ch/2015/09/three-variants-of-murofets-dga/)
